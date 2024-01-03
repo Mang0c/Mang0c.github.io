@@ -3,5 +3,33 @@
         <title>所有文章 - Mang0c</title>
         <link>https://mang0c.github.io/posts/</link>
         <description>所有文章 | Mang0c</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 03 Jan 2024 23:20:39 &#43;0800</lastBuildDate><atom:link href="https://mang0c.github.io/posts/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 03 Jan 2024 23:20:39 &#43;0800</lastBuildDate><atom:link href="https://mang0c.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First Hello</title>
+    <link>https://mang0c.github.io/2024/01/first-hello/</link>
+    <pubDate>Wed, 03 Jan 2024 11:03:53 &#43;0800</pubDate><author>
+        <name>Mang0c</name>
+    </author><guid>https://mang0c.github.io/2024/01/first-hello/</guid>
+    <description><![CDATA[你好 你好]]></description>
+</item><item>
+    <title>Sql</title>
+    <link>https://mang0c.github.io/2024/01/sql/</link>
+    <pubDate>Wed, 03 Jan 2024 13:08:46 &#43;0800</pubDate><author>
+        <name>Mang0c</name>
+    </author><guid>https://mang0c.github.io/2024/01/sql/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>OFbiz</title>
+    <link>https://mang0c.github.io/2024/01/ofbiz/</link>
+    <pubDate>Wed, 03 Jan 2024 22:27:34 &#43;0800</pubDate><author>
+        <name>Mang0c</name>
+    </author><guid>https://mang0c.github.io/2024/01/ofbiz/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Shiro</title>
+    <link>https://mang0c.github.io/2024/01/shiro/</link>
+    <pubDate>Wed, 03 Jan 2024 23:20:39 &#43;0800</pubDate><author>
+        <name>Mang0c</name>
+    </author><guid>https://mang0c.github.io/2024/01/shiro/</guid>
+    <description><![CDATA[ ]]></description>
+</item></channel>
 </rss>
